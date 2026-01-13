@@ -42,7 +42,7 @@ At this stage:
 - An image is also included on the page
 
 This helped me understand how Spring connects backend logic with frontend views and introduced me to the basic idea of the MVC (Model–View–Controller) pattern.
-
+![GreetingWithHTMLView](first-project-java-spring/src/main/resources/static/screenshots/GreetingWithHTMLview.png)
 ---
 
 ### Changing the Name in the Greeting
