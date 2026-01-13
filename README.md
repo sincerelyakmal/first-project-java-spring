@@ -29,7 +29,7 @@ The main purpose of this feature was:
 - To verify that the application runs correctly
 - To understand basic request–response behavior in Spring
 
-![Basic Greeting](src/main/resources/static/screenshots/BasicHello.png)
+![Basic Greeting](first-project-java-spring/src/main/resources/static/screenshots/BasicHello.png)
 ---
 
 ### Greeting Page with HTML View
