@@ -59,5 +59,5 @@ For example, instead of a static message, the page can display a personalized gr
 This feature demonstrates:
 - How user input can be handled by the application
 - How dynamic content is generated instead of fixed text
-
+![UpdatedName](first-project-java-spring/src/main/resources/static/screenshots/UpdatedName.png)
 ---
